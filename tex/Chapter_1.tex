@@ -1,0 +1,38 @@
+%\documentclass{phd_thesis}{subfiles}
+%\begin{document} 
+\chapter[Chapter 1]{Chapter 1} 
+\chaptermark{Chapter 1}
+
+\section{Section}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\subsection{Subsection}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\subsubsection{Subsubsection}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\paragraph{Paragraph: }
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\begin{table}[]
+\centering\footnotesize
+\caption{this is a table}
+\label{tab:table1}
+\begin{tabular}{@{}lcc@{}}
+\toprule
+\textbf{Column 1} & \textbf{Column 2} & \textbf{Column 3}\\ \midrule
+1 & 2 & 3\\
+\end{tabular}
+\end{table}
+
+%Code
+\begin{minipage}[!h]{1.0\linewidth}
+\inputminted[fontsize=\scriptsize,linenos=true,bgcolor=background]{S}{./code/test.R}
+\captionof{figure}{some code}
+\label{code:code1}
+\end{minipage}
+
+\bibliographystyle{ieeetr}
+\bibliography{../bib/Chapter_1}
+%\end{document}

@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{library}\PYG{p}{(}test\PYG{p}{)}
+
+\PYG{c+c1}{\PYGZsh{}this is R code}
+
+x \PYG{o}{\PYGZlt{}\PYGZhy{}} \PYG{l+m}{1}
+\PYG{k+kp}{print}\PYG{p}{(}x\PYG{p}{)}
+\end{Verbatim}
