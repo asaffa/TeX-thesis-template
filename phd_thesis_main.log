@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.5.12)  2 JAN 2018 21:56
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.5.12)  2 JAN 2018 22:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1220,11 +1220,11 @@ runsystem(rm "phd_thesis_main.mintedmd5")...executed.
 
  (./phd_thesis_main.aux (./tex/Chapter_1.aux)) ) 
 Here is how much of TeX's memory you used:
- 23257 strings out of 493632
- 429266 string characters out of 6144722
- 461060 words of memory out of 5000000
- 26283 multiletter control sequences out of 15000+600000
- 17876 words of font info for 105 fonts, out of 8000000 for 9000
+ 23255 strings out of 493632
+ 429203 string characters out of 6144722
+ 461064 words of memory out of 5000000
+ 26282 multiletter control sequences out of 15000+600000
+ 17868 words of font info for 104 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  60i,11n,94p,10506b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
 

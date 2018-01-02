@@ -41,7 +41,7 @@
 \newcommand{\hsp}{\hspace{20pt}}
 \RequirePackage[table,xcdraw]{xcolor}
 \definecolor{background}{rgb}{0.95,0.95,0.95}
-\definecolor{accent}{rgb}{0.5,0.95,0.80}
+\definecolor{accent}{rgb}{0.54,0.05,0.14}
 \titleformat{\chapter}[hang]{\huge\headingfont}{\thechapter\hsp\textcolor{accent}{|}\hsp}{0pt}{\huge\mdseries}
 \titleformat*{\section}{\Large\headingfont\mdseries}
 \titleformat*{\subsection}{\large\subheadingfont\itshape}
